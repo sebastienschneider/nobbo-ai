@@ -6,7 +6,7 @@ weight = 1
 
 # Welcome
 
-C'est une page très personnelle.
+Quelques notes et mémos sur de l'IA, du code, et du logiciel.
 
 ---
 

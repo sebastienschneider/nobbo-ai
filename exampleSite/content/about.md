@@ -6,4 +6,4 @@ weight = 10
 
 # About
 
-Ceci une un blog très personnel sur des petits bouts intimes de littérature.
+Juste un recueil de mes prises de notes afin de ne pas oublier trop vite.
