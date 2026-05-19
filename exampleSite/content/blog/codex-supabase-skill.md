@@ -27,8 +27,27 @@ avec
 [mcp.servers.supabase]
 url = "https://mcp.supabase.com/mcp
 ```
+
 Toujours dans ```~/.codex/config.toml```:
 ```toml
 [features]
 rmcp_client = true
+```
+
+Pour s'authentifier, on lance:
+```bash
+codex mcp login supabase
+```
+
+On vérifie que ça marche en lançant codex:
+```bash
+codex
+```
+puis dans le chat Codex:
+```bash
+/mcp
+```
+ou directement:
+```bash
+Liste des tables de ma base Supabase avec MCP
 ```
