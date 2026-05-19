@@ -1,8 +1,8 @@
-baseURL = "https://selis.pages.dev/"
+baseURL = "https://nobbo-ai.pages.dev/"
 theme = "hugo-bearblog"
 
-title = "Seli's Blog"
-author = "Seli"
+title = "Nobbo AI"
+author = "Nobbo"
 copyright = "Copyright © 2025, Seli."
 languageCode = "en-US"
 
