@@ -1,0 +1,43 @@
+baseURL = "https://selis.pages.dev/"
+theme = "hugo-bearblog"
+
+title = "Seli's Blog"
+author = "Seli"
+copyright = "Copyright © 2025, Seli."
+languageCode = "en-US"
+
+enableRobotsTXT = true
+
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug/"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[params]
+  description = "Thoughts on technology, development, and the web."
+  favicon = "images/favicon.png"
+  images = ["images/share.png"]
+  title = "Seli's Blog"
+  enablePostNavigator = true
+  dateFormat = "Jan 2, 2006"
+
+[markup]
+  [markup.highlight]
+    style = "dracula"
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true

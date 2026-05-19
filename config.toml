@@ -1,0 +1,8 @@
+baseURL = "https://selis.netlify.app/"
+languageCode = "fr"
+title = "Mon blog"
+
+theme = "hugo-bearblog"
+
+[pagination]
+pagerSize = 10

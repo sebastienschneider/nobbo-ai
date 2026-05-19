@@ -1,0 +1,25 @@
+{{ define "main" }}
+<content>
+
+<h1>Tags</h1>
+
+<div class="tag-cloud">
+  {{ $max := 1 }}
+  {{ range .Data.Terms }}
+    {{ if gt .Count $max }}
+      {{ $max = .Count }}
+    {{ end }}
+  {{ end }}
+
+  {{ range .Data.Terms.Alphabetical }}
+    {{ $size := div (mul .Count 100) $max }}
+    <a href="{{ .Page.Permalink }}"
+       class="tag-cloud-item"
+       style="font-size: {{ add 0.8 (div $size 100.0) }}rem;">
+       #{{ .Page.Title }}
+    </a>
+  {{ end }}
+</div>
+
+</content>
+{{ end }}

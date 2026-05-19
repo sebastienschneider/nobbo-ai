@@ -1,0 +1,13 @@
++++
+title = "J'ai envie de ton cul"
+date = "2026-03-02"
+description = "J'ai envie de ton cul"
+tags = [
+    "Pénétration",
+    "Sodomie",
+]
++++
+
+["Extases de Femmes", '08 869 869 869 extase' - Emmanuelle Poinger]()
+
+J’ai envie de ton cul comme je n’ai jamais rien désiré d’autre. Je veux me perdre entre tes fesses, jouir au plus profond de ton fondement et après, si la vie s’arrête, peu importe. Tout me sera égal… Ca y est, tu as un peu récupéré ? Non, pas encore tout à fait mais n’attendons plus, ton corps est tout alangui du plaisir que tu viens de prendre. Tu es parfaitement détendue : te pénétrer ainsi par la voie sacrée n’en sera que plus agréable, et moins pénible pour toi. N’aie pas peur, tu verras, c’est comme pour tes seins, derrière la douleur, se cache la porte de la félicité. Dure à ouvrir, mais cela vaut la peine d’essayer. Allez, ma princesse, mets-toi de nouveau en levrette. Si, ma belle ! Je t’ai dit, c’est moi qui commande. Tu n’as pas le choix. Et ne ralentis pas l’action, fais-le dès maintenant, tu sais bien au fond de toi que tu vas finir par céder, alors fais-le le temps que tu es tout humide. Ha, voilà que tu t’installes… Si tu savais comme tu es belle, vue de là. Si tu savais comme ma queue est dure pour toi ! Tu as ton gode ?… Tu sais que c’est mon pénis que tu tiens dans ta main ? Alors un petit passage éclair entre tes lèvres pour l’humidifier, et je viens me poser tout doucement contre ton anneau sacré. Ça y est, tu es prête ? Serre les dents, je m’enfonce… Tout doucement d’abord… Tu résistes. Je force et tout d’un coup, l’ouverture cède, tes résistances s’effacent… Je m’engouffre au plus profond et je commence à te fouiller. J’ai l’impression de lire dans ton âme. Mes doigts qui s’étaient arrimés à tes fesses pour ne pas te laisser te dérober, se promènent maintenant sur ton dos… Je sens que tu te détends, tu te laisses faire, sans plus gémir. Je prends un plaisir indicible à labourer tes reins, et je veux partager ce plaisir avec toi. Je veux que tu ressentes cette extase lunaire si troublante. Tu as recommencé à gémir. Mais ces gémissements me rassurent… Ils ont changé de modulation… Je sais ainsi que tu es maintenant en train de prendre du plaisir dans cette sodomie à distance ! Mais quel panard ! Tu es vraiment la papesse du sexe, que dis-je, la déesse… Mon dieu, t’imaginer à quatre pattes, dans ta chambre, un gode dans le cul, à écouter ma voix et à prendre ton pied pour la première fois de cette façon me rend dingue. Je n’ai jamais été aussi dur, aussi puissant, aussi viril, et c’est pour toi ma princesse… Je suis au bord de… Je n’arrive même plus à te parler tellement je… Oh, je viens, oh, prends tout, c’est pour toi… Pour toi, prends tout Ooooh…
