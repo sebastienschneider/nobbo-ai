@@ -8,6 +8,7 @@ tags = [
 +++
 
 **1. Initialiser le projet local**
+
 Dans ton dossier:
 ```bash
 supabase init
@@ -25,6 +26,7 @@ Ensuite:
 pour récupérer les URLs locales.
 
 **2. Lier le projet cloud**
+
 Récupère le ``project_ref`` dans l'URL Supabase:
 ```
 https://supabase.com/dashboard/project/abcd1234
@@ -57,6 +59,7 @@ ou
 supabase migration up
 ```
 **5. Utiliser MCP avec Codex**
+
 Une fois le projet local prêt:
 ```bash
 codex
