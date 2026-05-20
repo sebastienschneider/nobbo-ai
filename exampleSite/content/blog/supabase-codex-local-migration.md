@@ -44,49 +44,49 @@ supabase db pull
 - génère la migration SQL locale
 - synchronise le schéma
 Le fichier apparait dans
-```
+```bash
 supabase/migrations/
 ```
 4. Appliquer la migration localement
-```
+```bash
 supabase db reset
 ```
 ou
-```
+```bash
 supabase migration up
 ```
 5. Utiliser MCP avec Codex
 Une fois le projet local prêt:
-```
+```bash
 codex
 ```
 puis
-```
+```bash
 utilise Supabase MCP pour inspecter ma base locale
 ```
 ou
-```
+```bash
 Compare le schéma local avec les migrations
 ```
 ou
-```
+```bash
 Crée la SQL mogration pour une table profiles avec RLS
 ```
 ## Récupération des données
 Utilise:
-```
+```bash
 supabase db dump --data-only
 ```
 ou dump complet
-```
+```bash
 supabase db dump --file backup.sql
 ```
 Puis restaure:
-```
+```bash
 psql -f backup;sql
 ```
 ## Workflow complet
-```
+```bash
 supabase init
 supabase start
 
