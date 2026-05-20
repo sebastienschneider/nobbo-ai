@@ -1,20 +1,20 @@
 +++ 
-title = "Migrer Supabase en local avec Codex" 
+title = "Codex Supabase Skill" 
 date = "2026-05-19" 
-description = "Méthode recommandée: Remote MCP"
+description = "Codex Supabase Skill"
 tags = [ 
-"Supabase", "Codex", "Migration"
+"Supabase", "Codex", "Skill"
 ] 
 +++
 
 ### Méthode recommandée: Remote MCP
 
-Installer Codex CLI
+1. Installer Codex CLI
 ```bash
 npm install -g @openai/codex
 ```
 
-Ajouter le serveur MCP Supabase
+2. Ajouter le serveur MCP Supabase
 ```bash
 codex mcp add supabase --url https://mcp.supabase.com/mcp
 ```
@@ -28,18 +28,19 @@ avec
 url = "https://mcp.supabase.com/mcp
 ```
 
-Toujours dans ```~/.codex/config.toml```:
+3. Activer le support Remote MCP. Toujours dans ```~/.codex/config.toml```:
 ```toml
 [features]
 rmcp_client = true
 ```
 
-Pour s'authentifier, on lance:
+4. S'identifier. Pour cela, on lance:
 ```bash
 codex mcp login supabase
 ```
+Un navigateur s'ouvre pour se connecter à Codex. Supabase utilise maintenant OAuth, donc plus besoin de PAT
 
-On vérifie que ça marche en lançant codex:
+5. On vérifie que ça marche. Pour cela, on lance Codex:
 ```bash
 codex
 ```
@@ -51,3 +52,30 @@ ou directement:
 ```bash
 Liste des tables de ma base Supabase avec MCP
 ```
+## Version sécurisée (read-only)
+Très conseillé au début:
+```toml
+[mcp_servers.supabase]
+url = "https://mcp.supabase.com/mcp?read_only=true"
+```
+Ou scoped à un projet:
+```toml
+[mcp_servers.supabase]
+url = "https://mcp.supabase.com/mcp?project_ref=TON_PROJECT_REF&read_only=true"
+```
+## Mode local (stdio)
+Utile pour:
+- CI/CD
+- token PAT
+- offline-ish
+Exemple:
+```toml
+[mcp_servers.supabase]
+command = "npx"
+args = ["-y", "@supabase/mcp-server-supabase@latest", "--project-ref=abc123"]
+
+env = { SUPABASE_ACCESS_TOKEN = "sbp_xxx" }
+```
+## Où trouver project_ref
+Dans l’URL Supabase : ``https://abcdefgh.supabase.co``
+``abcdefgh`` = project_ref
