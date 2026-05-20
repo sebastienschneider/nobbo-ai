@@ -6,7 +6,7 @@ tags = [
 "Supabase", "Codex", "Migration"
 ] 
 +++
-1. Initialiser le projet local
+**1. Initialiser le projet local**
 Dans ton dossier:
 ```bash
 supabase init
@@ -23,7 +23,7 @@ Ensuite:
   ````
 pour récupérer les URLs locales.
 
-2. Lier le projet cloud
+**2. Lier le projet cloud**
 Récupère le ``project_ref`` dans l'URL Supabase:
 ```
 https://supabase.com/dashboard/project/abcd1234
@@ -36,7 +36,7 @@ Puis:
 ```bash
 supabase link --project-ref abcd1234
 ```
-3. Pull du schéma cloud vers local
+**3. Pull du schéma cloud vers local**
 ```bash
 supabase db pull
 ```
@@ -47,7 +47,7 @@ Le fichier apparait dans
 ```bash
 supabase/migrations/
 ```
-4. Appliquer la migration localement
+**4. Appliquer la migration localement**
 ```bash
 supabase db reset
 ```
@@ -55,7 +55,7 @@ ou
 ```bash
 supabase migration up
 ```
-5. Utiliser MCP avec Codex
+**5. Utiliser MCP avec Codex**
 Une fois le projet local prêt:
 ```bash
 codex
