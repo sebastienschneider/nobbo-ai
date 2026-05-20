@@ -9,12 +9,12 @@ tags = [
 
 ### Méthode recommandée: Remote MCP
 
-1. Installer Codex CLI
+**1. Installer Codex CLI**
 ```bash
 npm install -g @openai/codex
 ```
 
-2. Ajouter le serveur MCP Supabase
+**2. Ajouter le serveur MCP Supabase**
 ```bash
 codex mcp add supabase --url https://mcp.supabase.com/mcp
 ```
@@ -28,19 +28,19 @@ avec
 url = "https://mcp.supabase.com/mcp
 ```
 
-3. Activer le support Remote MCP. Toujours dans ```~/.codex/config.toml```:
+**3. Activer le support Remote MCP. Toujours dans ```~/.codex/config.toml```:**
 ```toml
 [features]
 rmcp_client = true
 ```
 
-4. S'identifier. Pour cela, on lance:
+**4. S'identifier. Pour cela, on lance:**
 ```bash
 codex mcp login supabase
 ```
 Un navigateur s'ouvre pour se connecter à Codex. Supabase utilise maintenant OAuth, donc plus besoin de PAT
 
-5. On vérifie que ça marche. Pour cela, on lance Codex:
+**5. On vérifie que ça marche. Pour cela, on lance Codex:**
 ```bash
 codex
 ```
