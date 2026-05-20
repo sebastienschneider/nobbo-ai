@@ -17,7 +17,7 @@ Ca démarre:
 - Auth
 - Storage
 - Studio
-  Ensuite:
+Ensuite:
   ```bash
   supabase status
   ````
