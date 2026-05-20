@@ -1,6 +1,6 @@
 +++ 
 title = "Codex Supabase Skill" 
-date = "2026-05-19" 
+date = "2026-05-15" 
 description = "Codex Supabase Skill"
 tags = [ 
 "Supabase", "Codex", "Skill"
