@@ -39,6 +39,10 @@ Puis:
 ```bash
 supabase link --project-ref abcd1234
 ```
+Si cette dernière commande échoue:
+```bash
+npx supabase link --project-ref TON_PROJECT_REF --password 'TON_DB_PASSWORD' --skip-pooler
+```
 **3. Pull du schéma cloud vers local**
 ```bash
 supabase db pull
