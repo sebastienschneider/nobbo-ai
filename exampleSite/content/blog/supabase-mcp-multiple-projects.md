@@ -72,10 +72,3 @@ rmcp_client = true
 url = "https://mcp.supabase.com/mcp?project_ref=other456"
 ```
 Comme ça Codex utilise automatiquement le bon projet selon le dossier.
-
-Mon conseil
-
-Pour ton setup :
-
-MCP → inspection, SQL, logs, génération types
-CLI Supabase (link, db pull, migration) → migrations réelles
