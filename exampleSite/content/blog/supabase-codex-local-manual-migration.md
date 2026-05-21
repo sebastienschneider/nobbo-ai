@@ -3,7 +3,7 @@ title = "Supabase Codex local manual Migration"
 date = "2026-05-17" 
 description = "Supabase Codex local manual Migration"
 tags = [ 
-"Supabase", "Codex", "Migration"
+"Supabase", "Codex", "MCP", "Migration"
 ] 
 +++
 **Étape 1 — Connecter MCP au projet local**
