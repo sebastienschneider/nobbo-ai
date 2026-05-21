@@ -3,7 +3,7 @@ title = "Supabase Codex local Migration"
 date = "2026-05-16" 
 description = "Supabase Codex local Migration"
 tags = [ 
-"Supabase", "Codex", "Migration"
+"Supabase", "Codex", "MCP", "Migration"
 ] 
 +++
 
