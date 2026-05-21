@@ -3,7 +3,7 @@ title = "Supabase Codex MCP Multiple Local Projects"
 date = "2026-05-19" 
 description = "Supabase Codex MCP Multiple Local Projects"
 tags = [ 
-"Supabase", "Codex",
+"Supabase", "Codex", "MCP"
 ] 
 +++
 
