@@ -35,7 +35,9 @@ seront présents.
 
 Attention aux nouvelles branches
 
-Le fork n'est pas mis à jour automatiquement si le dépôt source crée de nouvelles branches après ton fork. Pour récupérer les évolutions du dépôt original, on ajoute généralement un remote upstream :
+Le fork n'est pas mis à jour automatiquement si le dépôt source crée de nouvelles branches après ton fork. 
+
+Pour récupérer les évolutions du dépôt original, on ajoute généralement un remote upstream :
 ```bash
 git remote add upstream https://github.com/OWNER/REPO.git
 git fetch upstream
